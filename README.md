@@ -25,3 +25,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+
+
+### 🛠 &nbsp;Últimos proyectos
+
+- PVD Avanzado, Web:https://www.recargaloya.com
+- Plataforma Educativa para niños, Web: https://neilapp.recargaloya.com
+- Aplicacion movil Calculadora Espol, App: https://play.google.com/store/apps/details?id=com.veloxstudios.calculadoraprom
+- Sistema de información empresarial, Web: https://bdexpress.excecon.com.ec
+- Bot Whatsapp mensajes masivos, Link: https://github.com/JoelVeloz/WhatsappBot
