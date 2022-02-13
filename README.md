@@ -29,7 +29,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 
 
-### 🛠 &nbsp;Últimos proyectos
+### 🧩 &nbsp;Últimos proyectos
 
 - PVD Avanzado, Web: https://www.recargaloya.com
 - Plataforma Educativa para niños, Web: https://neilapp.recargaloya.com
