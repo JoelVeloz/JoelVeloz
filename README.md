@@ -36,4 +36,5 @@
 - Plataforma Educativa para niños, Web: https://neilapp.recargaloya.com
 - Aplicacion movil Calculadora Espol, App: https://play.google.com/store/apps/details?id=com.veloxstudios.calculadoraprom
 - Sistema de información empresarial, Web: https://bdexpress.excecon.com.ec
-- Bot Whatsapp mensajes masivos, Link: https://github.com/JoelVeloz/WhatsappBot
+- Plataforma de cursos (Demo), Web: http://lexi.recargaloya.com/
+- Bot Whatsapp mensajes masivos, Script: https://github.com/JoelVeloz/WhatsappBot
