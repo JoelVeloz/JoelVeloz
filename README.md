@@ -32,6 +32,7 @@
 
 ### 🧩 &nbsp;Últimos proyectos
 
+- Portafolio: https://faztery.com
 - PVD Avanzado, Web: https://www.recargaloya.com
 - Plataforma Educativa para niños, Web: https://neilapp.recargaloya.com
 - Aplicacion movil Calculadora Espol, App: https://play.google.com/store/apps/details?id=com.veloxstudios.calculadoraprom
